@@ -13,7 +13,7 @@
             "id": "https://uhgtech.github.io/sample-doc.html",
             "url": "https://uhgtech.github.io/sample-doc.html",
             "title": "Sample Doc",
-            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit&hellip;",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in&hellip;",
             "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
             "author": {
                 "name": "Mark Anderson"
@@ -28,7 +28,7 @@
             "id": "https://uhgtech.github.io/news.html",
             "url": "https://uhgtech.github.io/news.html",
             "title": "News",
-            "summary": "News for Week of March 23, 2020Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor&hellip;",
+            "summary": "News for Week of March 23, 2020Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna&hellip;",
             "content_html": "<h3>News for Week of March 23, 2020</h3>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>\n<ul>\n<li>List Item 1</li>\n<li>List Item 2</li>\n<li>List Item 3</li>\n</ul>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>\n<table style=\"border-collapse: collapse; width: 100%; border-color: #999; border-style: solid;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 33.3333%;\"><strong>TITLE</strong></td>\n<td style=\"width: 33.3333%;\"><strong>THING</strong></td>\n<td style=\"width: 33.3333%;\"><strong>NAME</strong></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">Title</td>\n<td style=\"width: 33.3333%;\">Thing</td>\n<td style=\"width: 33.3333%;\">Name</td>\n</tr>\n</tbody>\n</table>",
             "author": {
                 "name": "Mark Anderson"
@@ -43,7 +43,7 @@
             "id": "https://uhgtech.github.io/welcome.html",
             "url": "https://uhgtech.github.io/welcome.html",
             "title": "Hello World",
-            "summary": "[{\"id\":1555941466744,\"type\":\"publii-paragraph\",\"content\":\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit&hellip;",
+            "summary": "[{\"id\":1555941466744,\"type\":\"publii-paragraph\",\"content\":\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in&hellip;",
             "content_html": "[{\"id\":1555941466744,\"type\":\"publii-paragraph\",\"content\":\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}}]",
             "author": {
                 "name": "Mark Anderson"
