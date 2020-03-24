@@ -3,7 +3,7 @@
     <title>Innovation Center Tech Team</title>
     <link href="https://uhgtech.github.io/feed.xml" rel="self" />
     <link href="https://uhgtech.github.io" />
-    <updated>2020-03-23T23:41:25-05:00</updated>
+    <updated>2020-03-23T23:50:29-05:00</updated>
     <author>
         <name>Mark Anderson</name>
     </author>
@@ -39,16 +39,15 @@
         <id>https://uhgtech.github.io/news.html</id>
             <category term="News"/>
 
-        <updated>2020-03-23T23:29:30-05:00</updated>
+        <updated>2020-03-23T23:47:44-05:00</updated>
             <summary>
                 <![CDATA[
-                    News for Week of March 23, 2020Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna&hellip;
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.TITLETHINGNAMETitleThingName
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h3>News for Week of March 23, 2020</h3>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
 <ul>
 <li>List Item 1</li>
 <li>List Item 2</li>
