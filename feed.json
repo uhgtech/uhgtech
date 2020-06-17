@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Innovation Center Tech Team",
+    "title": "The Virtual Experience",
     "description": "",
     "home_page_url": "https://uhgtech.github.io",
     "feed_url": "https://uhgtech.github.io/feed.json",
@@ -19,7 +19,7 @@
                 "name": "Mark Anderson"
             },
             "tags": [
-                   "Documentation"
+                   "Help"
             ],
             "date_published": "2020-03-23T23:37:30-05:00",
             "date_modified": "2020-03-23T23:37:30-05:00"

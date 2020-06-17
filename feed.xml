@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Innovation Center Tech Team</title>
+    <title>The Virtual Experience</title>
     <link href="https://uhgtech.github.io/feed.xml" rel="self" />
     <link href="https://uhgtech.github.io" />
-    <updated>2020-03-23T23:50:29-05:00</updated>
+    <updated>2020-06-17T14:50:37-05:00</updated>
     <author>
         <name>Mark Anderson</name>
     </author>
@@ -16,7 +16,7 @@
         </author>
         <link href="https://uhgtech.github.io/sample-doc.html"/>
         <id>https://uhgtech.github.io/sample-doc.html</id>
-            <category term="Documentation"/>
+            <category term="Help"/>
 
         <updated>2020-03-23T23:37:30-05:00</updated>
             <summary>
