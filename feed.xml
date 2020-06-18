@@ -1,94 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>The Virtual Experience</title>
+    <title>Innovation Center</title>
     <link href="https://uhgtech.github.io/feed.xml" rel="self" />
     <link href="https://uhgtech.github.io" />
-    <updated>2020-06-17T14:50:37-05:00</updated>
+    <updated>2020-06-18T07:46:33-05:00</updated>
     <author>
         <name>Mark Anderson</name>
     </author>
     <id>https://uhgtech.github.io</id>
 
     <entry>
-        <title>Sample Doc</title>
-        <author>
-            <name>Mark Anderson</name>
-        </author>
-        <link href="https://uhgtech.github.io/sample-doc.html"/>
-        <id>https://uhgtech.github.io/sample-doc.html</id>
-            <category term="Help"/>
-
-        <updated>2020-03-23T23:37:30-05:00</updated>
-            <summary>
-                <![CDATA[
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>News</title>
-        <author>
-            <name>Mark Anderson</name>
-        </author>
-        <link href="https://uhgtech.github.io/news.html"/>
-        <id>https://uhgtech.github.io/news.html</id>
-            <category term="News"/>
-
-        <updated>2020-03-23T23:47:44-05:00</updated>
-            <summary>
-                <![CDATA[
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.TITLETHINGNAMETitleThingName
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-<ul>
-<li>List Item 1</li>
-<li>List Item 2</li>
-<li>List Item 3</li>
-</ul>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-<table style="border-collapse: collapse; width: 100%; border-color: #999; border-style: solid;" border="1">
-<tbody>
-<tr>
-<td style="width: 33.3333%;"><strong>TITLE</strong></td>
-<td style="width: 33.3333%;"><strong>THING</strong></td>
-<td style="width: 33.3333%;"><strong>NAME</strong></td>
-</tr>
-<tr>
-<td style="width: 33.3333%;">Title</td>
-<td style="width: 33.3333%;">Thing</td>
-<td style="width: 33.3333%;">Name</td>
-</tr>
-</tbody>
-</table>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Hello World</title>
+        <title>Welcome</title>
         <author>
             <name>Mark Anderson</name>
         </author>
         <link href="https://uhgtech.github.io/welcome.html"/>
         <id>https://uhgtech.github.io/welcome.html</id>
-            <category term="Resources"/>
 
-        <updated>2020-03-23T23:22:51-05:00</updated>
+        <updated>2020-06-18T07:46:05-05:00</updated>
             <summary>
                 <![CDATA[
-                    [{"id":1555941466744,"type":"publii-paragraph","content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in&hellip;
+                    The quick brown fox jumped over the lazy dog, he was lying near the fireplace warming himself after a long day of hunting in the woods with his master. The quick brown fox jumped over the lazy dog, he was lying near the fireplace warming&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                [{"id":1555941466744,"type":"publii-paragraph","content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
+                <p>The quick brown fox jumped over the lazy dog, he was lying near the fireplace warming himself after a long day of hunting in the woods with his master. The quick brown fox jumped over the lazy dog, he was lying near the fireplace warming himself after a long day of hunting in the woods with his master.</p>
+<p>The quick brown fox jumped over the lazy dog, he was lying near the fireplace warming himself after a long day of hunting in the woods with his master. The quick brown fox jumped over the lazy dog, he was lying near the fireplace warming himself after a long day of hunting in the woods with his master. </p>
             ]]>
         </content>
     </entry>
